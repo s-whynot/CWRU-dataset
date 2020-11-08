@@ -1,5 +1,3 @@
-#cwru
-#bearing dataset
 # CWRU-dataset
 Case Western Reserve University Bearing Fault Dataset
 
@@ -28,3 +26,6 @@ Data files are in Matlab format.
       time - time series data
 
       RPM- rpm during testing
+
+#cwru
+#bearing dataset
