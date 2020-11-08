@@ -1,3 +1,5 @@
+#cwru
+#bearing dataset
 # CWRU-dataset
 Case Western Reserve University Bearing Fault Dataset
 
